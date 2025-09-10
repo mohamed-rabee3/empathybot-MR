@@ -1,5 +1,3 @@
-Of course\! Here is a README file crafted from the project documentation.
-
 ## EmpathyBot 🤖❤️
 
 [cite\_start]**EmpathyBot** is a chatbot prototype designed to analyze a user's emotions from text and provide kind, empathetic responses[cite: 19]. [cite\_start]It was developed as part of a 6-hour high-priority task to demonstrate AI-driven emotional intelligence[cite: 8, 9]. [cite\_start]The bot uses **Retrieval-Augmented Generation (RAG)** with few-shot prompt engineering to select and frame appropriate replies from a large response corpus[cite: 20].
